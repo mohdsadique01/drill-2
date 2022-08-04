@@ -215,6 +215,6 @@ Where is the node command located? What about code?
 # Answer 4)a) node commmand is located in bin file.
   whereis node
   
-# b)
+ b)
   whereis code
-# code: /snap/bin/code
+ code: /snap/bin/code

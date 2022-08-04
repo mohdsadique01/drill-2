@@ -47,11 +47,11 @@ grep -o -i dumbledore harry | wc -l
 
 question 5
 
-Print lines from 100 through 200 in the book through command line
+Print lines from 100 through 200 in the book
 
 answer 5
 
-sad -n -e "100,200" harry
+sed -n -e "100,200p" harry
 
 
 question 6

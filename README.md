@@ -1,4 +1,4 @@
-pipes
+# pipes
 question 1
 
 Download the contents of "Harry Potter and the Goblet of fire" using the command line from
@@ -158,7 +158,8 @@ $ ps -p 5432 -o comm=
 
 
 
-Managing software
+# Managing software
+
 question 1
 
 for Installing htop, vim and nginx
@@ -181,7 +182,7 @@ sudo apt purge nginx
 
 
 
-MISC
+# MISC
 
 
 question 1
@@ -212,7 +213,7 @@ ping -c 3 google.com
 question 4
 
 Where is the node command located? What about code?
-# Answer 4)a) node commmand is located in bin file.
+Answer 4)a) node commmand is located in bin file.
   whereis node
   
  b)
